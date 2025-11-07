@@ -1,1 +1,10 @@
-.vercel
+﻿node_modules
+dist
+.vite
+*.log
+npm-debug.log*
+.vscode
+.idea
+.env
+.env.*
+!.env.example
